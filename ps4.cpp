@@ -14,7 +14,7 @@ int main ()
 
     si=(p*r*t)/100;
 
-    cout<<"\nSimple Interest : Rs  "<<si;
+    cout<<"\nSimple Interest : Rs.  "<<si;
 
     return 0;
 }
